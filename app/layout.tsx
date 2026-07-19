@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://nascom-landscaping-concept.vercel.app"),
   title: "Nascom Landscaping — Living Systems",
   description: "Landscape design, construction, rehabilitation and long-term care across Saudi Arabia.",
   openGraph: {
