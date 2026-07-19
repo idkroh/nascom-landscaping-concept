@@ -4,6 +4,11 @@ An independent, personalized website concept for Nascom Landscaping in Saudi Ara
 
 The concept is based on information published by Nascom and reframes its landscape design, construction, rehabilitation, irrigation and maintenance capabilities as one connected living system. Selected imagery is illustrative and should not be presented as completed Nascom project photography.
 
+## Live concept
+
+- Public presentation: https://nascom-landscaping-concept.vercel.app
+- Sites deployment: https://nascom-landscaping-concept.rohithramesh461.chatgpt.site
+
 ## Local preview
 
 ```bash
